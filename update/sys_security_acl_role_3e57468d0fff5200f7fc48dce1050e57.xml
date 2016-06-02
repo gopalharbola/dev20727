@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-06-02 12:01:08</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>3e57468d0fff5200f7fc48dce1050e57</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_11907_hr_master.x_11907_hr.user</sys_name>
+        <sys_package display_value="HR" source="x_11907_hr">02574e4d0fff5200f7fc48dce1050e5e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="HR">02574e4d0fff5200f7fc48dce1050e5e</sys_scope>
+        <sys_security_acl display_value="x_11907_hr_master">fe57468d0fff5200f7fc48dce1050e56</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_3e57468d0fff5200f7fc48dce1050e57</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-06-02 12:01:08</sys_updated_on>
+        <sys_user_role display_value="x_11907_hr.user" name="x_11907_hr.user">1257468d0fff5200f7fc48dce1050e52</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

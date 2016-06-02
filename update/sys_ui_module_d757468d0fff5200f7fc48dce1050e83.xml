@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="HR">5357468d0fff5200f7fc48dce1050e83</application>
+        <filter/>
+        <name>HR Master</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_11907_hr.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-06-02 12:01:10</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d757468d0fff5200f7fc48dce1050e83</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Master</sys_name>
+        <sys_package display_value="HR" source="x_11907_hr">02574e4d0fff5200f7fc48dce1050e5e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="HR">02574e4d0fff5200f7fc48dce1050e5e</sys_scope>
+        <sys_update_name>sys_ui_module_d757468d0fff5200f7fc48dce1050e83</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-06-02 12:01:10</sys_updated_on>
+        <table>x_11907_hr_master</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
